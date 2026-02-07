@@ -8,3 +8,8 @@ class arithmatic
     int no2 = sc.nextInt();
 
 }
+
+arithmatic(init no1,int no2)
+{
+    
+}
