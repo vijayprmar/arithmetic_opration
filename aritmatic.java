@@ -11,5 +11,7 @@ class arithmatic
 
 arithmatic(init no1,int no2)
 {
-    
+    int result;
+    result = a+b;
+    System.out.println("Result of aritmatic opeartion is"+result)
 }
