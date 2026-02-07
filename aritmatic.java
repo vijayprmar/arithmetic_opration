@@ -8,10 +8,9 @@ class arithmatic
     int no2 = sc.nextInt();
 
 }
-
 arithmatic(init no1,int no2)
 {
     int res;
     res=a+b;
     System.out.println("result:"+res);
-}
+–}
